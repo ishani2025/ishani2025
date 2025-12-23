@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kumarason2030
+- 👋 Hi, I’m @ishani2025
 - 👀 I’m interested in semiconductor and ai system infrastructure.
 - 🌱 I’m currently exploring ai ml through projects.
 - 💞️ I’m looking to collaborate with other developers
