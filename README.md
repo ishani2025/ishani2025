@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ishani2025
-- 👀 I’m interested in and ai system infrastructure.
+- 👀 I’m interested in ai system infrastructure.
 - 🌱 I’m currently exploring ai ml through projects.
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me:my email- petrifier1995@gmail.com
