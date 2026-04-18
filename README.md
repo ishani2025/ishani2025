@@ -106,7 +106,6 @@ Backend AI Infrastructure
 <p align="center"> <a href="https://github.com/ishani2025"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/ishani-ghosh-275ab331b/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:ishanighosh60b@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 ⚡ Fun Fact
 
-I debug systems the same way I solve problems — isolate, test, optimize, repeat.
-
+I like learn interesting facts regarding aquatic life and oceans.-I beleive there are 3 unexplored things-internet,oceans and space!!!
 
 ---
