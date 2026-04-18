@@ -10,7 +10,7 @@ AI Systems• RAG Pipelines • Backend + App development(Android Studio)
 ## 🚀 What I’m Building
 
 - ⚙️ AI-powered systems (not just models)
-- 🧠 Retrieval-Augmented Generation (RAG) pipelines for real-world debugging
+- 🧠 Retrieval-Augmented Generation (RAG) pipelines for real-world problems
 - 📱 Mobile + backend integrated AI applications
 - 🔄Interested in edge deployment
 
