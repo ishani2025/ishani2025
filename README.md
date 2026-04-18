@@ -1,7 +1,7 @@
 <h1 align="center">Ishani Ghosh⚙️</h1>
 
 <p align="center">
-AI Systems• RAG Pipelines • Backend + App development(ANDROID STUDIO) 
+## AI Systems• RAG Pipelines • Backend + App development(ANDROID STUDIO) 
 </p>
 
 ---
