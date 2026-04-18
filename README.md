@@ -81,7 +81,7 @@ AI Systems• RAG Pipelines • Backend + App development(ANDROID STUDIO)
 - ⚙️ Experience with **vector databases (FAISS)** and LLM pipelines  
 - 📱 Strong **mobile + backend integration capability**  
 - 🔄 Focused on **system reliability + evaluation frameworks**  
-- 📊 Practicing DSA (100+ problems solved)
+- 📊 Practicing DSA (CSES-100+ problems solved)
 
 ---
 
@@ -109,44 +109,3 @@ I debug systems the same way I solve problems — isolate, test, optimize, repea
 
 
 ---
-
-# Why this works (read carefully)
-
-This README is **not repeating your resume**. It is:
-
-- Converting your projects into **systems-level narratives**
-- Highlighting **RAG + infra (rare at your level)** :contentReference[oaicite:0]{index=0}
-- Showing **direction (AI → Edge → Chips)** → strong signal to deeptech recruiters
-- Removing fluff (no random icons overload, no template noise)
-
----
-
-# What you still must fix from your resume (critical gaps)
-
-Your resume has placeholders:
-- `[insert %]`
-- `[insert number]`
-
-This is a credibility leak. Fix immediately:
-- Even estimated metrics > placeholders  
-- Example: “reduced duplicates by ~35%”
-
----
-
-# If you want next-level differentiation
-
-Next upgrade (high ROI):
-- Add **live metrics block**:
-  - “Logs processed”
-  - “Model latency”
-  - “Active pipelines”
-
-This turns your profile from:
-→ student portfolio  
-into  
-→ **mini AI systems dashboard**
-
----
-
-If you want, next step: I can turn your README into a **real-time AI system status board (with GitHub Actions + live metrics)**.
-
