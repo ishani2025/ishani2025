@@ -1,12 +1,152 @@
-- 👋 Hi, I’m @ishani2025
-- 👀 I’m interested in ai system infrastructure.
-- 🌱 I’m currently exploring ai ml through projects.
-- 💞️ I’m looking to collaborate with other developers
-- 📫 How to reach me:my email- petrifier1995@gmail.com
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: i love learning bizzare facts
+<h1 align="center">Ishani Ghosh⚙️</h1>
 
-<!---
-kumarason2030/kumarason2030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+AI Systems• RAG Pipelines • Backend + App development(ANDROID STUDIO) 
+</p>
+
+---
+
+## 🚀 What I’m Building
+
+- ⚙️ AI-powered systems (not just models)
+- 🧠 Retrieval-Augmented Generation (RAG) pipelines for real-world debugging
+- 📱 Mobile + backend integrated AI applications
+- 🔄Interested in edge deployment
+
+---
+
+## 📊 GitHub Signals
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishani2025&show_icons=true&theme=radical" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=ishani2025&theme=radical" height="150"/>
+</p>
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,react,nodejs,androidstudio,kotlin,mysql,docker,git" />
+</p>
+
+---
+
+## 🧩 Systems I’ve Built
+
+### 🧠 LogSentinel — AI Log Debugging Engine
+- Built a **dual-agent RAG pipeline** for debugging Java & Python logs
+- FAISS vector search + sentence-transformers → sub-second retrieval
+- Designed evaluation harness for prompt reliability testing
+- Stack: FastAPI, FAISS, Ollama (Mistral), Streamlit  
+🔗 https://github.com/ishani2025/LogSentinel
+
+---
+
+### 🔐 AuditOS — Mobile Forensic Verification System
+- Android-based system for **EPR credit verification**
+- Implemented **pHash duplicate detection** to reduce fraud attempts
+- Backend: Flask + SQLite with immutable audit logs
+- Integrated real-world camera validation workflows  
+🔗 https://github.com/ishani2025/AuditOS
+
+---
+
+### 🏥 AcuteAssist — AI Medical Assistant (In Progress)
+- Building a **clinical decision-support assistant**
+- Designing pipeline to reduce context noise in medical data
+- Future integration: **ABHA (ABDM) + UHID systems**
+- Focus: safe structured outputs (JSON validation)
+
+---
+
+### 🎮 GitBit — Git Learning Simulator (In Progress)
+- Gamified platform to visualize Git workflows
+- React + Unity integration for 3D interaction
+- Focus: improving onboarding for open-source contributors
+
+---
+
+### 🔍 Lost & Found Platform
+- Image-based matching using OpenCV
+- Google OAuth authentication
+- SQLAlchemy-based database design  
+🔗 https://github.com/ishani2025/LOSTANDFOUND
+
+---
+
+## ⚡ Engineering Signals
+
+- 🧠 Built **multi-agent AI system (RAG)** — not just single-model usage  
+- ⚙️ Experience with **vector databases (FAISS)** and LLM pipelines  
+- 📱 Strong **mobile + backend integration capability**  
+- 🔄 Focused on **system reliability + evaluation frameworks**  
+- 📊 Practicing DSA (100+ problems solved)
+
+---
+
+## 🏆 Achievements
+
+- 🥈 2nd Place — Internal Quest (CodeChef VITC) for AuditOS  
+- 💻 Core Member — Project Department, CodeChef VITC  
+
+---
+
+## 🎯 Current Direction
+
+- Moving from:
+  ```text
+  ML Projects → AI Systems → Edge AI → AI + Chip Systems
+Target roles:
+AI Systems Engineer
+AIoT / Edge AI Engineer
+Backend AI Infrastructure
+📫 Connect
+<p align="center"> <a href="https://github.com/ishani2025"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/> </a> <a href="https://linkedin.com/in/ishani-ghosh"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:ishanighosh60b@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+⚡ Fun Fact
+
+I debug systems the same way I solve problems — isolate, test, optimize, repeat.
+
+
+---
+
+# Why this works (read carefully)
+
+This README is **not repeating your resume**. It is:
+
+- Converting your projects into **systems-level narratives**
+- Highlighting **RAG + infra (rare at your level)** :contentReference[oaicite:0]{index=0}
+- Showing **direction (AI → Edge → Chips)** → strong signal to deeptech recruiters
+- Removing fluff (no random icons overload, no template noise)
+
+---
+
+# What you still must fix from your resume (critical gaps)
+
+Your resume has placeholders:
+- `[insert %]`
+- `[insert number]`
+
+This is a credibility leak. Fix immediately:
+- Even estimated metrics > placeholders  
+- Example: “reduced duplicates by ~35%”
+
+---
+
+# If you want next-level differentiation
+
+Next upgrade (high ROI):
+- Add **live metrics block**:
+  - “Logs processed”
+  - “Model latency”
+  - “Active pipelines”
+
+This turns your profile from:
+→ student portfolio  
+into  
+→ **mini AI systems dashboard**
+
+---
+
+If you want, next step: I can turn your README into a **real-time AI system status board (with GitHub Actions + live metrics)**.
+
