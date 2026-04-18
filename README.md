@@ -28,7 +28,7 @@ AI Systems• RAG Pipelines • Backend + App development(Android Studio)
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,react,nodejs,androidstudio,kotlin,mysql,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,react,nodejs,androidstudio,kotlin,mysql,docker,git,streamlit" />
 </p>
 
 ---
