@@ -19,8 +19,8 @@ AI Systems• RAG Pipelines • Backend Development + App development(Android St
 ## GitHub Signals
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=ishani2025&show_icons=true&theme=radical" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=ishani2025&theme=radical" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishani2025&theme=radical" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishani2025&theme=radical" height="150"/>
 </p>
 ---
 
