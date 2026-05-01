@@ -1,7 +1,7 @@
 <h1 align="center">Ishani Ghosh⚙️</h1>
 
 <p align="center"><b>
-AI Systems• RAG Pipelines • Backend + App development(Android Studio) 
+AI Systems• RAG Pipelines • Backend Development + App development(Android Studio) 
 </b>
 </p>
 
@@ -16,7 +16,7 @@ AI Systems• RAG Pipelines • Backend + App development(Android Studio)
 
 ---
 
-## 📊 GitHub Signals
+## GitHub Signals
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishani2025&show_icons=true&theme=radical" height="150"/>
@@ -25,7 +25,7 @@ AI Systems• RAG Pipelines • Backend + App development(Android Studio)
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,react,nodejs,androidstudio,kotlin,mysql,docker,git,streamlit" />
