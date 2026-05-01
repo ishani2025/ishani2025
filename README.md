@@ -5,7 +5,6 @@ AI Systems• RAG Pipelines • Backend Development + App development(Android St
 </b>
 </p>
 
----
 
 ## 🚀 What I’m Building
 
