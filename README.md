@@ -21,7 +21,6 @@ AI Systems• RAG Pipelines • Backend Development + App development(Android St
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishani2025&theme=radical" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishani2025&theme=radical" height="150"/>
 </p>
----
 
 ## Tech Stack
 
