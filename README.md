@@ -14,12 +14,24 @@ AI Systems• RAG Pipelines • Backend Development + App development(Android St
 - 🔄Interested in edge deployment
 
 ---
-
-## GitHub Signals
+## Github Signals
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishani2025&theme=radical" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishani2025&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishani2025&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishani2025&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishani2025&layout=compact&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishani2025&theme=radical"/>
 </p>
 
 ## Tech Stack
