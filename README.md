@@ -22,16 +22,15 @@ AI Systems• RAG Pipelines • Backend Development + App development(Android St
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishani2025&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishani2025&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ishani2025&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishani2025&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishani2025&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishani2025&theme=radical"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishani2025&theme=react-dark&hide_border=true"/>
 </p>
 
 ## Tech Stack
