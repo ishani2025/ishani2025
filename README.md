@@ -17,17 +17,19 @@ AI Systems• RAG Pipelines • Backend Development + App development(Android St
 ## Github Signals
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishani2025&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishani2025&show_icons=true&theme=radical" />
 </p>
 
-<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishani2025&layout=compact&theme=radical" />
+</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ishani2025&theme=radical" />
 </p>
 
-<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishani2025&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishani2025&theme=react-dark" />
 </p>
 
 ## Tech Stack
