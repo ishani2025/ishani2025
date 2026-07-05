@@ -1,118 +1,77 @@
-<h1 align="center">Ishani Ghosh⚙️</h1>
+<div align="center">
 
-<p align="center"><b>
-AI Systems• RAG Pipelines • Backend Development + App development(Android Studio) 
-</b>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F76B8A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ishani;I+build+AI+systems%2C+not+just+models;RAG+pipelines+%2B+mobile+%2B+backend;Next+stop%3A+semiconductors+%26+compilers" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/ishani2025"><img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github"/></a>
+<a href="https://www.linkedin.com/in/ishani-ghosh-275ab331b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ishanighosh60b@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+I'm a CS undergrad at VIT Chennai who cares more about shipping working AI systems than chasing benchmark numbers. Most of what I build sits at the intersection of RAG pipelines, mobile apps, and backend infrastructure — right now I'm slowly moving down the stack, from AI systems toward edge deployment, and from there into compilers and semiconductor design. That last part is new, but it's where I want to end up.
+
+<br/>
+
+### 🧰 Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,react,nodejs,androidstudio,kotlin,mysql,mongodb,docker,git,streamlit" />
 </p>
 
+<br/>
 
-## 🚀 What I’m Building
+### 📊 GitHub Stats
 
-- ⚙️ AI-powered systems (not just models)
-- 🧠 Retrieval-Augmented Generation (RAG) pipelines for real-world problems
-- 📱 Mobile + backend integrated AI applications
-- 🔄Interested in edge deployment
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ishani2025&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishani2025&layout=compact&theme=radical&hide_border=true" />
+</div>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=ishani2025&theme=radical&hide_border=true" />
+</div>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishani2025&theme=react-dark&hide_border=true" width="95%"/>
+</div>
 
----
-## Github Signals
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishani2025&show_icons=true&theme=radical" />
-</p>
+### 🧩 What I've built
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishani2025&layout=compact&theme=radical" />
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| **[LogSentinel](https://github.com/ishani2025/LogSentinel)** | Dual-agent RAG pipeline for debugging Java/Python logs, with FAISS vector search for sub-second retrieval and a custom eval harness for prompt reliability. | FastAPI, FAISS, Ollama (Mistral), Streamlit |
+| **[AuditOS](https://github.com/ishani2025/AuditOS)** | Android-based forensic verification system for EPR credits — pHash duplicate detection to catch fraud, immutable audit logs on the backend. | Kotlin, Android Studio, Flask, SQLite, OpenCV |
+| **AcuteAssist** *(in progress)* | Clinical decision-support assistant for mobile, with a pipeline to cut context noise and validate outputs against safe JSON schemas. Future: ABHA/UHID integration. | Android Studio, Python, Ollama |
+| **GitBit** *(in progress)* | A gamified way to learn Git — React + Unity, 3D visual feedback for forking, merging, and PRs. | React, Unity, FastAPI |
+| **[Lost & Found](https://github.com/ishani2025/LOSTANDFOUND)** | Image-matching lost-and-found app with Google OAuth and OpenCV-based matching. | OpenCV, SQLAlchemy, Google OAuth |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ishani2025&theme=radical" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishani2025&theme=react-dark" />
-</p>
+### 🎯 Where I'm headed
 
-## Tech Stack
+```
+ML Projects → AI Systems → Edge AI → AI + Chip Systems
+                                      (compilers & semiconductors)
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,react,nodejs,androidstudio,kotlin,mysql,docker,git,streamlit" />
-</p>
+Target roles: **AI Systems Engineer**, **AIoT / Edge AI Engineer**, **Backend AI Infrastructure** — and increasingly, anything that lets me get closer to the hardware/compiler layer.
 
----
+<br/>
 
-## 🧩 Systems I’ve Built
+### 🏆 Achievements
 
-### 🧠 LogSentinel — AI Log Debugging Engine
-- Built a **dual-agent RAG pipeline** for debugging Java & Python logs
-- FAISS vector search + sentence-transformers → sub-second retrieval
-- Designed evaluation harness for prompt reliability testing
-- Stack: FastAPI, FAISS, Ollama (Mistral), Streamlit  
-🔗 https://github.com/ishani2025/LogSentinel
+- 🥈 2nd place, Internal Quest (CodeChef VITC) — for AuditOS
+- Project Lead & Core Member, Projects Department, CodeChef VITC
+- 100+ problems solved on CSES
 
----
+<br/>
 
-### 🔐 AuditOS — Mobile Forensic Verification System
-- Android-based system for **EPR credit verification**
-- Implemented **pHash duplicate detection** to reduce fraud attempts
-- Backend: Flask + SQLite with immutable audit logs
-- Integrated real-world camera validation workflows  
-🔗 https://github.com/ishani2025/AuditOS
+<div align="center">
 
----
+*Fun fact: I'm a little obsessed with ocean life — I genuinely believe the internet, the oceans, and space are the last three unexplored frontiers.*
 
-### 🏥 AcuteAssist — AI Medical Assistant (In Progress)
-- Building a **clinical decision-support assistant**
-- Designing pipeline to reduce context noise in medical data
-- Future integration: **ABHA (ABDM) + UHID systems**
-- Focus: safe structured outputs (JSON validation)
-
----
-
-### 🎮 GitBit — Git Learning Simulator (In Progress)
-- Gamified platform to visualize Git workflows
-- React + Unity integration for 3D interaction
-- Focus: improving onboarding for open-source contributors
-
----
-
-### 🔍 Lost & Found Platform
-- Image-based matching using OpenCV
-- Google OAuth authentication
-- SQLAlchemy-based database design  
-🔗 https://github.com/ishani2025/LOSTANDFOUND
-
----
-
-## ⚡ Engineering Signals
-
-- 🧠 Built **multi-agent AI system (RAG)** — not just single-model usage  
-- ⚙️ Experience with **vector databases (FAISS)** and LLM pipelines  
-- 📱 Strong **mobile + backend integration capability**  
-- 🔄 Focused on **system reliability + evaluation frameworks**  
-- 📊 Practicing DSA (CSES-100+ problems solved)
-
----
-
-## 🏆 Achievements
-
-- 🥈 2nd Place — Internal Quest (CodeChef VITC) for AuditOS  
-- 💻 Core Member — Project Department, CodeChef VITC  
-
----
-
-## 🎯 Current Direction
-
-- Moving from:
-  ```text
-  ML Projects → AI Systems → Edge AI → AI + Chip Systems
-Target roles:
-AI Systems Engineer
-AIoT / Edge AI Engineer
-Backend AI Infrastructure
-📫 Connect
-<p align="center"> <a href="https://github.com/ishani2025"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/ishani-ghosh-275ab331b/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:ishanighosh60b@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-⚡ Fun Fact
-
-I like learn interesting facts regarding aquatic life and oceans.-I beleive there are 3 unexplored things-internet,oceans and space!!!
-
----
+</div>
