@@ -38,10 +38,6 @@ I'm a CS undergrad at VIT Chennai who cares more about shipping working AI syste
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ishani2025&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishani2025&layout=compact&theme=radical&hide_border=true" />
-</div>
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=ishani2025&theme=radical&hide_border=true" />
 </div>
 <div align="center">
