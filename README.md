@@ -37,6 +37,9 @@ I'm a CS undergrad at VIT Chennai who cares more about shipping working AI syste
 
 ### 📊 GitHub Stats
 
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ishani2025&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishani2025&layout=compact&theme=radical&hide_border=true" />
 </div>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=ishani2025&theme=radical&hide_border=true" />
@@ -47,87 +50,19 @@ I'm a CS undergrad at VIT Chennai who cares more about shipping working AI syste
 
 <br/>
 
-### 🏅 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ishani2025&theme=radical&no-frame=true&row=1&column=6" />
-</div>
-
-<br/>
-
 ### 🧩 What I've built
 
-**[LogSentinel](https://github.com/ishani2025/LogSentinel)** — *FastAPI, FAISS, Ollama (Mistral), Streamlit*
-A dual-agent RAG pipeline for debugging Java/Python logs at enterprise scale.
+<div align="center">
 
-<details>
-<summary>Highlights</summary>
-<br/>
+| Project | Description | Stack | Status |
+|---|---|---|:---:|
+| **[LogSentinel](https://github.com/ishani2025/LogSentinel)** | Dual-agent RAG pipeline for debugging Java/Python logs, with FAISS vector search for sub-second retrieval and a custom eval harness for prompt reliability | FastAPI, FAISS, Ollama (Mistral), Streamlit | ✅ |
+| **[AuditOS](https://github.com/ishani2025/AuditOS)** | Mobile forensic verification system for EPR credits — pHash duplicate detection, real-world camera + liveness checks, immutable audit logs 🥈 *2nd place, CodeChef VITC Internal Quest* | Kotlin, Android Studio, Flask, SQLite, OpenCV | ✅ |
+| **AcuteAssist** | Clinical decision-support assistant — pipeline to cut context noise, outputs validated against safe JSON schemas, roadmap includes ABHA/UHID integration | Android Studio, Python, Ollama | 🚧 |
+| **GitBit** | Gamified way to learn Git — React + Unity, 3D visual feedback for forking, merging, and PRs | React, Unity, FastAPI | 🚧 |
+| **[Lost & Found](https://github.com/ishani2025/LOSTANDFOUND)** | Image-matching lost-and-found app with Google OAuth and OpenCV-based matching | OpenCV, SQLAlchemy, Google OAuth | ✅ |
 
-- FAISS vector search + sentence-transformer embeddings for sub-second retrieval of historical resolutions
-- Custom test harness tracking pass/fail rates across prompt evaluations
-- Systematic debugging of the dual-agent loop to keep outputs reliable
-
-</details>
-
-<br/>
-
-**[AuditOS](https://github.com/ishani2025/AuditOS)** — *Kotlin, Android Studio, Flask, SQLite, OpenCV*
-A mobile forensic verification system for EPR credits.
-
-<details>
-<summary>Highlights</summary>
-<br/>
-
-- Real-world camera evidence capture with randomized liveness challenges
-- pHash-based duplicate detection in the mobile client to block fraudulent submissions
-- Flask backend persisting immutable audit trails via a lightweight SQLite wrapper
-- 🥈 2nd place, CodeChef VITC Internal Quest
-
-</details>
-
-<br/>
-
-**AcuteAssist** *(in progress)* — *Android Studio, Python, Ollama*
-A clinical decision-support assistant for rapid medical record retrieval.
-
-<details>
-<summary>Highlights</summary>
-<br/>
-
-- Data-filtering pipeline to strip irrelevant history and cut context-window noise
-- Outputs validated against safe, structured JSON schemas
-- Roadmap includes ABHA (ABDM) + UHID integration for real clinical workflows
-
-</details>
-
-<br/>
-
-**GitBit** *(in progress)* — *React, Unity, FastAPI*
-A gamified way to learn Git.
-
-<details>
-<summary>Highlights</summary>
-<br/>
-
-- Visualizes forking, merging, and PRs for new open-source contributors
-- Unity + React integration for interactive 3D feedback on simulated collaboration
-
-</details>
-
-<br/>
-
-**[Lost & Found](https://github.com/ishani2025/LOSTANDFOUND)** — *OpenCV, SQLAlchemy, Google OAuth*
-A team project matching lost and found items by image.
-
-<details>
-<summary>Highlights</summary>
-<br/>
-
-- OpenCV-based image matching between lost and found listings
-- Google OAuth authentication and SQLAlchemy-managed data models
-
-</details>
+</div>
 
 <br/>
 
