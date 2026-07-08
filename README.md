@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F76B8A&height=120&section=header"/ alt="Ishani Ghosh">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F76B8A&height=120&section=header" alt="Ishani Ghosh" />
 
 <div align="center">
 
