@@ -67,7 +67,7 @@ I'm a CS undergrad at VIT Chennai who cares more about shipping working AI syste
 <img src="https://img.shields.io/badge/🎯_WHERE_I'M_HEADED-F76B8A?style=for-the-badge&labelColor=1a1a1a"/>
 ML Projects → AI Systems → Edge AI → AI + Chip Systems
                                       (compilers & semiconductors)
-Target roles: **AI Systems Engineer**, **AIoT / Edge AI Engineer**, **Backend AI Infrastructure** — and increasingly, anything that lets me get closer to the hardware/compiler layer.
+Target roles: AI Systems Engineer, AIoT / Edge AI Engineer, Backend AI Infrastructure — and increasingly, anything that lets me get closer to the hardware/compiler layer.
 
 <br/>
 
