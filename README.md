@@ -71,7 +71,7 @@ ML Projects → AI Systems → Edge AI → AI + Chip Systems
 Target roles: AI Systems Engineer, AIoT / Edge AI Engineer, Backend AI Infrastructure — and increasingly, anything that lets me get closer to the hardware/compiler layer.
 
 <br/>
-
+<br></br>
 <img src="https://img.shields.io/badge/🏆_ACHIEVEMENTS_&_INVOLVEMENT-F76B8A?style=for-the-badge&labelColor=1a1a1a"/>
 
 - Project Lead & Core Member, Projects Department — CodeChef VITC (Jul 2025–Present)
