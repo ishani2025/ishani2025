@@ -9,9 +9,6 @@
 <a href="https://github.com/ishani2025"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
 <a href="https://www.linkedin.com/in/ishani-ghosh-275ab331b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ishanighosh60b@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=ishani2025&style=flat-square&color=f76b8a&label=profile+views"/>
 
 </div>
@@ -25,9 +22,6 @@ I'm a CS undergrad at VIT Chennai who cares more about shipping working AI syste
 <br/>
 
 <img src="https://img.shields.io/badge/📌_AT_A_GLANCE-F76B8A?style=for-the-badge&labelColor=1a1a1a"/>
-
-<br/><br/>
-
 <div align="center">
 
 | 🎓 Studying | 📍 Based in | 🧭 Focus right now | 🌱 Exploring next |
@@ -39,9 +33,6 @@ I'm a CS undergrad at VIT Chennai who cares more about shipping working AI syste
 <br/>
 
 <img src="https://img.shields.io/badge/🧰_STACK-F76B8A?style=for-the-badge&labelColor=1a1a1a"/>
-
-<br/><br/>
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,react,nodejs,androidstudio,kotlin,mysql,mongodb,docker,git,streamlit" />
@@ -51,22 +42,14 @@ I'm a CS undergrad at VIT Chennai who cares more about shipping working AI syste
 <br/>
 
 <img src="https://img.shields.io/badge/📊_GITHUB_ACTIVITY-F76B8A?style=for-the-badge&labelColor=1a1a1a"/>
-
-<br/><br/>
-
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=ishani2025&theme=radical&hide_border=true" />
 </div>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishani2025&theme=react-dark&hide_border=true" width="95%"/>
 </div>
-
 <br/>
-
 <img src="https://img.shields.io/badge/🧩_WHAT_I'VE_BUILT-F76B8A?style=for-the-badge&labelColor=1a1a1a"/>
-
-<br/><br/>
-
 <div align="center">
 
 | Project | Description | Stack | Status |
@@ -82,9 +65,6 @@ I'm a CS undergrad at VIT Chennai who cares more about shipping working AI syste
 <br/>
 
 <img src="https://img.shields.io/badge/🎯_WHERE_I'M_HEADED-F76B8A?style=for-the-badge&labelColor=1a1a1a"/>
-
-<br/><br/>
-
 ```
 ML Projects → AI Systems → Edge AI → AI + Chip Systems
                                       (compilers & semiconductors)
@@ -95,8 +75,6 @@ Target roles: **AI Systems Engineer**, **AIoT / Edge AI Engineer**, **Backend AI
 <br/>
 
 <img src="https://img.shields.io/badge/🏆_ACHIEVEMENTS_&_INVOLVEMENT-F76B8A?style=for-the-badge&labelColor=1a1a1a"/>
-
-<br/><br/>
 
 - Project Lead & Core Member, Projects Department — CodeChef VITC (Jul 2025–Present)
 - 🥈 2nd place, Internal Quest (CodeChef VITC) — for AuditOS
