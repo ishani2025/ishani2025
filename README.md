@@ -20,8 +20,6 @@
 
 <img src="https://img.shields.io/badge/👋_ABOUT-F76B8A?style=for-the-badge&labelColor=1a1a1a"/>
 
-<br/><br/>
-
 I'm a CS undergrad at VIT Chennai who cares more about shipping working AI systems than chasing benchmark numbers. Most of what I build sits at the intersection of RAG pipelines, mobile apps, and backend infrastructure — right now I'm slowly moving down the stack, from AI systems toward edge deployment, and from there into compilers and semiconductor design. That last part is new, but it's where I want to end up.
 
 <br/>
