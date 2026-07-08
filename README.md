@@ -76,13 +76,10 @@ Target roles: **AI Systems Engineer**, **AIoT / Edge AI Engineer**, **Backend AI
 - Project Lead & Core Member, Projects Department — CodeChef VITC (Jul 2025–Present)
 - 🥈 2nd place, Internal Quest (CodeChef VITC) — for AuditOS
 - 100+ problems solved on CSES, building consistent DSA fundamentals
-
 <br/>
-
 <div align="center">
-
+  
 *Fun fact: I'm a little obsessed with ocean life — I genuinely believe the internet, the oceans, and space are the last three unexplored frontiers.*
 
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F76B8A&height=100&section=footer"/>
